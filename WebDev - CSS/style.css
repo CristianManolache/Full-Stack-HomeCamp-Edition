@@ -30,3 +30,17 @@ rgb(0,0,255) = FULL BLUE
 rgb(173,20,219) = FULL PURPLE
 rgb(0,0,0) = FULL BLACK
 */
+
+/* Hexadecimal 
+0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F  - max numb = 9 , max let = F .
+
+example : #ffff00    -> ffff = 250 -> no need to learn the translate to rgb
+
+#0f5679
+
+#0f = red
+56 = green
+79 = blue 
+
+Try it out Color Picker Hexadecimal ! 
+*/
