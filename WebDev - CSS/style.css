@@ -1,0 +1,32 @@
+h1 {
+    color: aqua;
+}
+h2 {
+    color:white;
+    background-color: blueviolet;
+    border-radius: 50px;
+}
+h3 {
+    color: tomato;
+    border: 1px solid blue;
+    border-radius: 50%;
+}
+p {
+    color: olive;
+}
+button {
+    color: orangered;
+    background-color: powderblue;
+}
+#ipsum {
+    background-color: rebeccapurple;
+}
+.lorem {
+    border-radius: 30px;
+}
+/* Mozila Web Dev Color 
+rgb(255,0,0) = FULL RED
+rgb(0,0,255) = FULL BLUE
+rgb(173,20,219) = FULL PURPLE
+rgb(0,0,0) = FULL BLACK
+*/
