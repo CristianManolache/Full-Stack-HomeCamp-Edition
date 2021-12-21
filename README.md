@@ -1,4 +1,5 @@
-# HTML---Back-to-basics
+# HTML---Back-to-basics - &#10003;
+# CSS ---Back-to-basics
 
 Credits to https://www.udemy.com/course/the-web-developer-bootcamp/ ! 
 
