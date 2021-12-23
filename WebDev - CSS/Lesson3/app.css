@@ -1,0 +1,30 @@
+header button {
+    font-weight: bold;
+    font-size: 20px;
+    color: red;
+}
+.hr {
+    background-color: white;
+    height: 5px;
+}
+.popular_posts:hover {
+    background-color: #a8dadc ;
+}
+.tag {
+    color: rgb(156, 50, 205);
+}
+#button_Login {
+    background-color: lightslategrey;
+    color: limegreen;
+}
+.posts button:hover {
+    background-color: #e63946;
+    color: whitesmoke;
+}
+/* .post button:active {
+    background-color: #02c39a;
+ } */
+.posts a:hover {
+    text-decoration: none;
+    font-weight: 700;
+}
