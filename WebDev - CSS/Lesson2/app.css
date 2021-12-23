@@ -24,3 +24,60 @@ h1 {
     text-decoration: underline plum wavy;
 }
 */
+
+/* 
+Universal selector for all = * 
+
+* { 
+    background-color: black;
+}
+
+
+Multiple combine : 
+h1,h2 {
+    color: darkslateblue;
+}
+
+THE ID SELECTOR : 
+EXAMPLE:
+
+#test {  only use once by ID , UNIQUE IDENTIFIER 
+
+    color: white;
+}
+
+THE CLASS SELECTOR: 
+EXAMPLE: 
+
+.test{
+    color: blue;
+}
+
+DESCENDENCE OF CHILD
+.test > a {
+    color: white;
+}
+
+COMBINATOR 
+Select only the paragraphs , that are immediately  preceded by an H1
+NOT A CHILD 
+EXAMPLE:
+The button what come's up after the input will change
+input +button {
+    color: pink;
+}
+
+THE ATTRIBUTE SELECTOR 
+
+input[type="password"] {
+
+    color: green;
+}
+
+section[class="test"] {
+
+    background-color: white;
+}
+
+section.post  = is working as well and is better way.
+*/
