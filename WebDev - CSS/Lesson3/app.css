@@ -28,3 +28,18 @@ header button {
     text-decoration: none;
     font-weight: 700;
 }
+
+/* Pseude Elements
+Keyword added to a selector that lets you style a particular part of selected element(s)
+
+::after
+::before
+::first-letter
+::first-line
+::selection
+
+Specificity
+
+Specificity is how the browser decides which rules to apply in multiple rules could apply to the same element. It is a measure of how specific a give selector is.
+The more specific selector "WINS" 
+*/
