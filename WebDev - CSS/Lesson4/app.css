@@ -1,0 +1,24 @@
+.one {
+    background-color: red;
+    border-width: 5px;
+    border-color: magenta;
+    border: solid 20px yellow;
+    padding: 30px;
+    /* box-sizing: border-box; */
+}
+.two {
+    margin: 20px;
+    background-color: aqua;
+    border: dotted 15px brown
+}
+.three {
+    background-color: limegreen;
+    width: 100px;
+    border: dashed 10px;
+    border-left-color: blueviolet;
+    border-left-width: 40px;
+}
+/* top | right | bottom | left 
+
+padding: 5px 1px 0 2px;
+*/
